@@ -1,3 +1,9 @@
-grabusername();
-sendusernametoroblox();
-crash();
+#include <iostream>
+
+int main() {
+      grabusername();
+      sendusernametoroblox();
+      crash();
+}
+
+
